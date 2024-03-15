@@ -1,5 +1,8 @@
 # Motion Capture and Animation System Based on Video Recordings Using OpenCV and Unity
 
+[![Watch the video](https://img.youtube.com/vi/qlQO22zSRsQ/0.jpg)](https://youtu.be/qlQO22zSRsQ)
+
+
 ## Objective
 
 The goal of this project is to develop an economical motion capture system that precisely captures the movements of humanoid characters from pre-recorded video files. This system aims to make motion capture technology more accessible to digital graphics creators by converting movements into animations within the Unity environment.
